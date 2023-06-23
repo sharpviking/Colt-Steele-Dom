@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "give-me-a-joke": "^0.5.1",
+    "i": "^0.3.7",
+    "npm": "^9.7.2"
+  },
+  "name": "jokester",
+  "version": "1.0.0",
+  "main": "jokester.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
